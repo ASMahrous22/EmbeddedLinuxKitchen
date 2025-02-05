@@ -98,7 +98,7 @@ export PATH=/home/abdallah/x-tools/arm-Abdallah-linux-uclibcgnueabihf/bin:$PATH
 ### Creating an Alias
 You can create an alias for `arm-gcc` to simplify its usage. For example:
 ```bash
-alias AS-arm-gcc='arm-patrick-linux-musleabihf-gcc' # 🌟
+alias AS-arm-gcc='arm-Abdallah-linux-uclibcgnueabihf-gcc' # 🌟
 ```
 Now you can compile your program using:
 ```bash
